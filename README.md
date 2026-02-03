@@ -1,6 +1,14 @@
 # Witam panów
 
-## Tu co macie zrobić
+## Jak ktoś nie ma GITa na komputerze
+1. Instalujecie z tej strony: https://git-scm.com/
+2. Jak się zainstaluje, to imię i mail trzeba ustalić (może być imię@numer_albumu.com albo cokolwiek)
+   ```bash
+   git config --global user.name "Your Full Name"
+   git config --global user.email "your@email.com"
+   ```
+
+## Tu co macie zrobić jak już macie GIT
 
 1. Stwórzcie folder, w którym będziecie pracować
    1. metoda : przez eksplorator plików
