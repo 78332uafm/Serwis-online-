@@ -20,7 +20,7 @@ git clone https://github.com/78332uafm/Serwis-online-
 git checkout -b IMIE-NAZWISKO
 ```
 
-4. Dodajecie plik (najlepiej, żeby wszyscy dodali html, który robiliście na wcześniejszych labach)
+4. Dodajecie plik do folderu (najlepiej, żeby wszyscy dodali html, który robiliście na wcześniejszych labach)
 
 5. Dodajecie plik do gita i commit
 ```bash
