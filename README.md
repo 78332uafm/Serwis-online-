@@ -1,5 +1,7 @@
 # Witam panów
 
+## Zaakceptujcie dodanie jako kolaborator do repozytorium, jak kogos pominąłem, to pisać
+
 ## Jak ktoś nie ma GITa na komputerze
 1. Instalujecie z tej strony: https://git-scm.com/
 2. Jak się zainstaluje, to imię i mail trzeba ustalić (może być imię@numer_albumu.com albo cokolwiek)
