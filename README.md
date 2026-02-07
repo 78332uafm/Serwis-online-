@@ -1,4 +1,4 @@
-# Witam panów
+# Witam 
 
 ## Zaakceptujcie dodanie jako kolaborator do repozytorium, jak kogos pominąłem, to pisać
 
