@@ -1,26 +1,28 @@
 <!DOCTYPE html>
-<html lang="pl">
-<head>
-  <title> Zadanie 6 </title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <h1 class="title"> Laboratorium zadanie 6(opcjonalne)</h1>
-  <h2> Dlaczego psy są lepsze od kotów </h2>
-
-  <p> 1. Nie bez powodu psy mają pseudonim "Najlepszy przyjaciel człowieka"</p>
-  <p> 2. Z odpowiednią rasą psa możesz wykonywać wspólne aktywności fizyczne np.</p>
-  <p> Wchodzenie po górach, bieganie, spacery</p>
-  <p> 3. Psy są bardziej skłonne do nauki komend i dostosowania się do zasad domu.</p>
-  <p> 4. Psy często okazują emocje w sposób, który łatwo zrozumieć poprzez merdanie ogonem, radosne skoki czy przytulanie się.</p>
-  
-  <h3>Przydane linki odnośnie psów</h3>
-  <ul>
-    <a href="https://www.psy.pl/"</li> www.psy.pl</a><p></p>
-    <a href="page1.html">Podstrona o pieskach</a>
-  </ul>
-  <p>Ponizej Boston Terrier</p>
-<img src="https://animalsbreeds.com/wp-content/uploads/2014/07/Boston-Terrier-8.jpg"class="zdjecie"alt="Boston Terier">
-</body>
-
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Jak wytresować smoka</h1>
+      
+      <h2>Najpierw musimy mieć smoka. Z tym może być problem ale jak ktoś się postara i użyje odpowiednich substancji zabronionych to jest to wykonalne (nie mówię z doświadczenia).</h2>      
+      <h3>Smoki do wyboru:</h3>
+      <ul>
+        - Nocna Furia <p></p>
+        - Nocny Blask <p></p>
+        - Marazmor <p></p>
+        - Oszołomostrach <p></p>
+        - Wandersmok <p></p>
+        - Krzykozgon <p></p>
+        - Drzewokos 
+      </ul>
+      <h3>Jest dużo więcej różnych gatunków które można sprawdzić tutaj:</h3>
+      <a href="https://jakwytresowacsmoka.fandom.com/wiki/Kategoria:Gatunki_smok%C3%B3w">Smoki</a>
+      <h6>Polecam adblocka</h6>
+      
+      <h5>Jeśli ktoś jest ciekawy jaki jest mój ulubiony smok to można kliknąć tu: <a href="page1.html">Ulubiony</a></h5>
+	<img src="Nocna_furia_render.jpg" alt= "Nocna Furia">
+  </body>
 </html>
